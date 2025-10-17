@@ -54,6 +54,6 @@ También pudes ejecutarlo desde el IDE de tu preferencia (IntelliJ, Eclipse, VS 
 El siguiente paso será desarrollar una aplicación web con Spring Boot (Fase 2).  
 
 #### Autor: Emanuel Hurtado  
-[LinkedIn](https://www.linkedin.com/in/emanuel-hurtado) 
+[LinkedIn](https://www.linkedin.com/in/emanuel-hurtado)   
 [email](mailto:emanuel.hurtado.cast@gmail.com) 
 
